@@ -1,0 +1,810 @@
+
+  .why-inito-is-smarter-way {
+    padding-top: 2em;
+    margin-top: 2em;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+         text-size-adjust: 100%;
+  }
+  
+
+  .why-inito-is-smarter-way img {
+    vertical-align: bottom;
+    width: 100%;
+  }
+  
+
+  .why-inito-is-smarter-way h1 {
+    margin: auto 0 auto 21px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    max-width: 327px;
+  }
+  
+
+  .why-inito-is-smarter-way h1 .inline-image {
+    display: inline-block;
+  }
+  
+
+  .why-inito-is-smarter-way p, .why-inito-is-smarter-way div {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #112D35;
+  }
+  
+
+  .why-inito-is-smarter-way a {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone {
+    z-index: 2;
+    margin: 2em 29px auto;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(18, 45, 53, 0.121569);
+    padding: 1em;
+    position: absolute;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+         text-size-adjust: 100%;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone .blue-calendar {
+    display: none;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone h6 {
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    color: #1F94AA;
+    margin-bottom: 0.5em;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .source {
+    display: block;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    color: #A0ABAE;
+    margin-bottom: 1rem;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .quote {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1.2;
+    color: #112D35;
+    margin-bottom: 1rem;
+    display: block;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor {
+    display: flex;
+    align-items: center;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-image {
+    display: inline-block;
+    width: 46px;
+    height: 46px;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info {
+    margin-left: 1rem;
+    font-size: 12px;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info .doctor-name, .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info .doctor-qualification {
+    display: block;
+  }
+  
+
+  .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info .doctor-qualification {
+    color: #94A0A4;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background {
+    background-color: #E1F4FA;
+    background-origin: border-box;
+    margin-top: 8.5em;
+    padding-top: 30em;
+    z-index: 1;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background > h1 {
+    display: none;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background div {
+    margin: 1.2em 22px 50px;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card h1 .diff-color {
+    color: #1F94AA;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .blue-bullet-list {
+    margin: 0.3em 0 0;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .blue-bullet-list li::before {
+    color: #1F94AA;
+    font-weight: 100;
+    left: -0.4em;
+    top: -2px;
+    font-size: 1.6rem;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .blue-bullet-list li {
+    margin-bottom: 0;
+    font-size: 1em;
+    left: 0.9em;
+    line-height: 20px;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card:first-of-type h1 .image_as_underline {
+    padding-bottom: 0.1em;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card:first-of-type h1 .homepage-4-star {
+    width: 22px;
+    vertical-align: top;
+    display: none;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card:first-of-type div {
+    margin-bottom: 40px;
+  }
+  
+  @media screen and (min-width: 769px) {
+  
+    .why-inito-is-smarter-way .blue-background .left-card:first-of-type div {
+      margin-bottom: 0;
+    }
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card:last-of-type h1 {
+    font-size: 25px;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card:last-of-type div {
+    margin-bottom: 70px;
+  }
+  
+  @media screen and (min-width: 769px) {
+  
+    .why-inito-is-smarter-way .blue-background .left-card:last-of-type div {
+      margin-bottom: 0;
+    }
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card, .why-inito-is-smarter-way .blue-background .right-card {
+    margin: 0;
+    padding-top: 40px;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card .text-content .button, .why-inito-is-smarter-way .blue-background .right-card .text-content .button {
+    display: none;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card .card-image, .why-inito-is-smarter-way .blue-background .right-card .card-image {
+    margin: 0;
+    margin-top: 4em;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card .small-view-button, .why-inito-is-smarter-way .blue-background .right-card .small-view-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem auto;
+    width: 210px;
+    height: 40px;
+    background-color: #1F94AA;
+    color: white;
+    border-radius: 25px;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 12px;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .left-card .text-content div .extra-space {
+    display: none;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .right-card {
+    background-color: white;
+    overflow: hidden;
+    padding-top: 25px;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .right-card .card-image {
+    position: relative;
+    left: 2%;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .right-card .card-image img {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .right-card .fertility-card-carousel {
+    position: absolute;
+    bottom: 40.5vw;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .right-card .fertility-card-carousel .slick-track {
+    margin: 0;
+  }
+  
+
+  .why-inito-is-smarter-way .blue-background .right-card .text-content div {
+    margin-bottom: 30px;
+  }
+  
+  @media screen and (min-width: 331px) {
+  
+    .why-inito-is-smarter-way .blue-background {
+      padding-top: 27em;
+    }
+  }
+  
+  @media screen and (min-width: 342px) {
+  
+    .why-inito-is-smarter-way .blue-background {
+      padding-top: 25.5em;
+    }
+  }
+  
+  @media screen and (min-width: 371px) {
+  
+    .why-inito-is-smarter-way .blue-background {
+      padding-top: 24em;
+    }
+  }
+  
+  @media screen and (min-width: 375px) {
+  
+    .why-inito-is-smarter-way .why-measure-progesterone h6 {
+      font-size: 12px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .quote {
+      font-size: 20px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info {
+      font-size: 14px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background {
+      margin-top: 8em;
+      padding-top: 25.5em;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card:first-of-type h1 {
+      font-size: 30px;
+      line-height: 35px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .small-view-button {
+      width: 260px;
+      font-size: 12px;
+      line-height: 15px;
+    }
+  }
+  
+  @media screen and (min-width: 386px) {
+  
+    .why-inito-is-smarter-way .blue-background {
+      padding-top: 24.5em;
+    }
+  }
+  
+  @media screen and (min-width: 411px) {
+  
+    .why-inito-is-smarter-way .blue-background {
+      padding-top: 23em;
+    }
+  }
+  
+  @media screen and (min-width: 451px) {
+  
+    .why-inito-is-smarter-way .why-measure-progesterone h6 {
+      font-size: 2vw;
+      line-height: 3vw;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .source {
+      font-size: 1.5vw;
+      line-height: 2.5vw;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .quote {
+      font-size: 3vw;
+      line-height: 3.5vw;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-image {
+      width: 10vw;
+      height: 10vw;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info {
+      font-size: 2.1vw;
+    }
+  
+    .why-inito-is-smarter-way p, .why-inito-is-smarter-way div {
+      font-size: 2.5vw;
+      line-height: 3.5vw;
+    }
+  
+    .why-inito-is-smarter-way h1 {
+      font-size: 4vw;
+      line-height: 5vw;
+      max-width: initial;
+    }
+  
+    .why-inito-is-smarter-way .blue-background {
+      padding-top: 50%;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card:last-of-type h1 {
+      font-size: 4.3vw;
+      line-height: 4.5vw;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .fertility-card-carousel {
+      bottom: 42vw;
+    }
+  }
+  
+  @media screen and (min-width: 651px) {
+  
+    .why-inito-is-smarter-way .why-measure-progesterone h6 {
+      font-size: 1.5vw;
+      line-height: 2.5vw;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .source {
+      font-size: 1.3vw;
+      line-height: 2.3vw;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .quote {
+      font-size: 2.5vw;
+      line-height: 3vw;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-image {
+      width: 8.5vw;
+      height: 8.5vw;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info {
+      font-size: 1.6vw;
+    }
+  
+    .why-inito-is-smarter-way p, .why-inito-is-smarter-way div {
+      font-size: 2vw;
+      line-height: 3vw;
+    }
+  
+    .why-inito-is-smarter-way h1 {
+      font-size: 3.5vw;
+      line-height: 4.5vw;
+    }
+  
+    .why-inito-is-smarter-way .blue-background {
+      padding-top: 40%;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card:last-of-type h1 {
+      font-size: 3.7vw;
+      line-height: 4vw;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .fertility-card-carousel {
+      bottom: 43vw;
+    }
+  }
+  
+  @media screen and (min-width: 769px) {
+  
+    .why-inito-is-smarter-way {
+      border-top: none;
+      margin-bottom: 2rem;
+    }
+  
+    .why-inito-is-smarter-way > h1 {
+      display: none;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone {
+      width: 500px;
+      left: 0;
+      right: 0;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .blue-calendar {
+      display: block;
+      position: absolute;
+      max-width: 5rem;
+      top: -2.5rem;
+      right: -1rem;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone h6 {
+      font-size: 9px;
+      line-height: 22px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .source {
+      font-size: 7px;
+      line-height: 7px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .quote {
+      font-size: 15px;
+      line-height: 18px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info {
+      font-size: 10px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-image {
+      width: 65px;
+      height: 65px;
+    }
+  
+    .why-inito-is-smarter-way p, .why-inito-is-smarter-way div {
+      font-size: 11px;
+      line-height: 16px;
+    }
+  
+    .why-inito-is-smarter-way h1 {
+      font-size: 18px;
+      line-height: 23px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background {
+      padding-top: 19em;
+      padding-bottom: 3.5rem;
+      margin-bottom: 0;
+    }
+  
+    .why-inito-is-smarter-way .blue-background > h1 {
+      display: block;
+      margin: auto;
+      text-align: center;
+      width: 60%;
+      max-width: 540px;
+      font-size: 36px;
+      line-height: 50px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background > h1 .image_as_underline {
+      padding-bottom: 0.9rem;
+      background-image: url(/assets/v1/curvy_underline-e2936c7e15b455ab3bdcf6b6df20b5e9b1be4cc5c25a190dfc0769752325dd84.png);
+    }
+  
+    .why-inito-is-smarter-way .blue-background div {
+      margin: 0;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .blue-bullet-list li {
+      left: 0.7em;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card:last-of-type h1 {
+      font-size: 25px;
+      line-height: 30px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card, .why-inito-is-smarter-way .blue-background .right-card {
+      background-color: white;
+      border-radius: 20px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 4rem;
+      display: flex;
+      max-width: 950px;
+      padding-top: 0;
+      box-shadow: 4px 4px 14px rgba(18, 45, 53, 0.24);
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card > *, .why-inito-is-smarter-way .blue-background .right-card > * {
+      flex: 1;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .small-view-button, .why-inito-is-smarter-way .blue-background .right-card .small-view-button {
+      display: none;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content, .why-inito-is-smarter-way .blue-background .right-card .text-content {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content h1, .why-inito-is-smarter-way .blue-background .right-card .text-content h1 {
+      margin: 0 1rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content div, .why-inito-is-smarter-way .blue-background .right-card .text-content div {
+      margin: 0 1rem 0;
+      padding-bottom: 1rem;
+      line-height: 18px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content h1 .diff-color, .why-inito-is-smarter-way .blue-background .right-card .text-content h1 .diff-color {
+      color: #A0ABAE;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content h1 .inline-image, .why-inito-is-smarter-way .blue-background .right-card .text-content h1 .inline-image {
+      display: inline-block;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content .button, .why-inito-is-smarter-way .blue-background .right-card .text-content .button {
+      display: block;
+      width: 189px;
+      font-size: 16px;
+      line-height: 20px;
+      display: flex;
+      margin: 0 1rem 1rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .card-image, .why-inito-is-smarter-way .blue-background .right-card .card-image {
+      border-radius: 0 20px 20px 0;
+      margin: 0;
+      height: inherit;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .card-image img, .why-inito-is-smarter-way .blue-background .right-card .card-image img {
+      border-radius: 0 20px 20px 0;
+      min-height: 45vw;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card:first-of-type h1 {
+      font-size: 25px;
+      line-height: 30px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card:first-of-type h1 .homepage-4-star {
+      display: inline;
+      top: -4px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card:first-of-type .text-content div {
+      font-size: 13px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card {
+      flex-direction: row-reverse;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .card-image {
+      height: fit-content;
+      height: -moz-fit-content;
+      border-radius: 20px 0px 0px 20px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .card-image img {
+      border-radius: 20px 0px 0px 20px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .fertility-card-carousel {
+      left: -48%;
+      top: 2.7em;
+      width: 375px;
+    }
+  }
+  
+  @media screen and (min-width: 900px) {
+  
+    .why-inito-is-smarter-way .blue-background .left-card, .why-inito-is-smarter-way .blue-background .right-card, .why-inito-is-smarter-way .blue-background .left-card:first-of-type {
+      margin-left: 4rem;
+      margin-right: 4rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content div, .why-inito-is-smarter-way .blue-background .right-card .text-content div, .why-inito-is-smarter-way .blue-background .left-card:first-of-type .text-content div {
+      font-size: 15px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .text-content h1 {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+      font-size: 25px;
+      line-height: 30px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .text-content div, .why-inito-is-smarter-way .blue-background .right-card .text-content .button {
+      margin-left: 1.5rem;
+      margin-right: 1.5rem;
+    }
+  }
+  
+  @media screen and (min-width: 1025px) {
+  
+    .why-inito-is-smarter-way .why-measure-progesterone {
+      width: 844px;
+      height: 440px;
+      padding: 41px;
+      box-shadow: 7px 0 14px rgba(18, 45, 53, 0.121569);
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .blue-calendar {
+      max-width: 120px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone h6 {
+      font-weight: 700;
+      font-size: 15px;
+      line-height: 25px;
+      letter-spacing: initial;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone p {
+      font-size: 15px;
+      line-height: 25px;
+      width: 726px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .source {
+      font-weight: 500;
+      font-size: 12px;
+      line-height: 25px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .quote {
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 25px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info .doctor-name {
+      font-weight: 700;
+      font-size: 15px;
+      line-height: 10px;
+    }
+  
+    .why-inito-is-smarter-way .why-measure-progesterone .doctor-review-source .doctor .doctor-info .doctor-qualification {
+      font-size: 15px;
+      line-height: 10px;
+      margin-top: 1rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background {
+      padding-top: 23em;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 11.5rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background > h1 {
+      font-size: 36px;
+      line-height: 50px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card, .why-inito-is-smarter-way .blue-background .right-card {
+      margin-left: 0;
+      margin-right: 0;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content h1, .why-inito-is-smarter-way .blue-background .right-card .text-content h1 {
+      font-size: 30px;
+      line-height: 40px;
+      margin-bottom: 2rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content div, .why-inito-is-smarter-way .blue-background .right-card .text-content div {
+      font-weight: 500;
+      font-size: 15px;
+      line-height: 25px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .card-image img, .why-inito-is-smarter-way .blue-background .right-card .card-image img {
+      min-height: 447px;
+      height: 100%;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card:first-of-type h1 .homepage-4-star {
+      width: 28px;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content h1, .why-inito-is-smarter-way .blue-background .left-card .text-content div {
+      margin-left: 3.8rem;
+      margin-right: 2.9rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content h1 {
+      margin-top: 3.5rem;
+      margin-bottom: 1.5rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content div {
+      margin-bottom: 2.5rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .left-card .text-content div .extra-space {
+      display: contents;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .text-content h1, .why-inito-is-smarter-way .blue-background .right-card .text-content div, .why-inito-is-smarter-way .blue-background .right-card .text-content .button {
+      margin-right: 2rem;
+      margin-left: 3rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .text-content h1 {
+      margin-bottom: 0;
+      margin-top: 0.5rem;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .text-content div {
+      padding-bottom: 0;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .right-card .fertility-card-carousel {
+      width: 400px;
+      top: 3.2em;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .blue-bullet-list {
+      margin-bottom: 0.5em;
+    }
+  
+    .why-inito-is-smarter-way .blue-background .blue-bullet-list li {
+      font-size: 15px;
+      line-height: 15px;
+      margin-top: 0.5em;
+    }
+  }
+ 

@@ -1,0 +1,348 @@
+
+.header__con {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1024px;
+    height: 80px;
+  }
+  
+  @media screen and (max-width: 1024px) {
+  
+    .header__con {
+      margin: 0 4rem;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+  
+    .header__con {
+      margin: 0 2.5rem;
+    }
+  }
+  
+  @media screen and (max-width: 450px) {
+  
+    .header__con {
+      margin: 0 10px;
+    }
+  }
+  
+
+  .header__con .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+
+  .header__con nav {
+    display: flex;
+  }
+  
+
+  .header__con nav a {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+
+  .header__con nav a:first-of-type {
+    margin: 0;
+  }
+  
+
+  .header__con nav a:hover {
+    color: #1f94aa;
+  }
+  
+
+  .header__con nav a.button {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 40px;
+    width: 130px;
+    border-radius: 26px;
+    background-color: #1f94aa;
+    font-size: 14px;
+    line-height: 17px;
+  }
+  
+
+  .header__con nav a.button:hover {
+    color: white;
+    background-color: #047a91;
+  }
+  
+
+  .header__con nav a.button:visited {
+    color: white;
+    background-color: #1f94aa;
+  }
+  
+  @media screen and (max-width: 768px) {
+  
+    .header__con nav a.button {
+      font-size: 13px;
+      line-height: 16px;
+      width: 100px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+  
+    .header__con nav a {
+      margin-left: 25px;
+    }
+  }
+  
+
+  .header__con nav div.country-selector {
+    display: block;
+    margin-top: 13px;
+    margin-bottom: 0;
+    margin-left: 15px;
+    text-transform: uppercase;
+    position: relative;
+    text-decoration: none;
+    padding: 0.6rem 1rem 1rem 1rem;
+  }
+  
+  @media screen and (max-width: 650px) {
+  
+    .header__con nav div.country-selector {
+      display: none;
+    }
+  }
+  
+
+  .header__con nav div.country-selector:hover {
+    cursor: pointer;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px 10px rgba(0, 0, 0, 0.12);
+  }
+  
+
+  .header__con nav div.country-selector a.selected-country {
+    font-size: 12px;
+    line-height: 15px;
+    color: #acb6b9;
+  }
+  
+
+  .header__con nav div.country-selector ul {
+    list-style: none;
+    visibility: visible;
+    opacity: 1;
+    position: absolute;
+    margin-top: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    padding: 0 1rem 1rem;
+  }
+  
+
+  .header__con nav div.country-selector:hover > ul, .header__con nav div.country-selector ul:hover {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+    background: white;
+    border-radius: 5px;
+  }
+  
+
+  .header__con nav div.country-selector ul li {
+    clear: both;
+    width: 100%;
+    display: none;
+    position: relative;
+    text-decoration: none;
+    margin-top: 3px;
+    margin-bottom: 0;
+  }
+  
+
+  .header__con nav div.country-selector ul li.active {
+    display: block;
+  }
+  
+
+  .header__con nav div.country-selector:hover > ul li, .header__con nav div.country-selector ul:hover li {
+    display: block;
+  }
+  
+
+  .header__con nav div.country-selector ul li:before {
+    content: none;
+    color: #112d35;
+  }
+  
+
+  .header__con nav div.country-selector ul li a {
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    color: #1f94aa;
+    font-size: 12px;
+  }
+  
+
+  .header__con nav div.country-selector ul li.active a {
+    color: #112d35;
+  }
+  
+  @media screen and (max-width: 650px) {
+  
+    .header__con {
+      height: 60px;
+      margin: 0;
+      width: 100%;
+      justify-content: flex-start;
+      align-items: center;
+      background-color: #FFFFFF;
+      box-shadow: 0 1px 0 0 #DBDBDB;
+    }
+  
+    .header__con nav {
+      margin-left: auto;
+      margin-right: 20px;
+    }
+  
+    .header__con nav a:not(.button) {
+      display: none;
+    }
+  
+    .header__con nav a.button {
+      width: 110px;
+      height: 35px;
+    }
+  
+    .header__con .ham-menu {
+      display: flex;
+      -webkit-tap-highlight-color: transparent;
+    }
+  
+    .header__con .logo {
+      height: 30px;
+    }
+  
+    .header__con .logo a {
+      height: 100%;
+      -webkit-tap-highlight-color: transparent;
+    }
+  
+    .header__con .logo img {
+      height: 100%;
+    }
+  }
+  
+
+  .sidebar {
+    position: fixed;
+    height: -moz-fit-content;
+    height: fit-content;
+    top: 60px;
+  
+    left: 0;
+    right: 0;
+    z-index: 101;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    padding: 1em 20px;
+    opacity: 0;
+    transform: translateY(0%) scaleY(0);
+    transform-origin: top;
+    transition: opacity 0.3s ease-in-out;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+
+  .sidebar.active {
+    transform: translateY(0%) scaleY(1);
+    opacity: 1;
+  }
+  
+
+  .sidebar nav {
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+  .sidebar nav a {
+    font-size: 1.2rem;
+    padding: 0.5em 0;
+    margin-bottom: 1em;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+
+  .sidebar nav a:last-of-type {
+    margin: 0;
+  }
+  
+  @media screen and (max-width: 450px) {
+  
+    .sidebar nav a {
+      font-size: 1rem;
+    }
+  }
+  
+  @media screen and (max-width: 320px) {
+  
+    .sidebar nav a {
+      font-size: 0.95rem;
+    }
+  }
+  
+
+  .sidebar nav div.country-selector-mobile {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+  }
+  
+
+  .sidebar nav div.country-selector-mobile .country-selector-title {
+    font-size: 13px;
+    color: #acb6b9;
+    margin-right: 10px;
+    margin-top: 5px;
+  }
+  
+
+  .sidebar nav div.country-selector-mobile .country-name {
+    margin-right: 10px;
+    padding: 2px 6px;
+  }
+  
+
+  .sidebar nav div.country-selector-mobile .country-name a {
+    font-size: 13px;
+    padding: 0;
+  }
+  
+
+  .sidebar nav div.country-selector-mobile .country-name.active {
+    background: #dcfaff;
+    border-radius: 10px;
+    text-align: center;
+    width: 49px;
+    height: 25px;
+  }
+  
+
+  .sidebar nav div.country-selector-mobile .country-name.active a {
+    color: #112D35;
+  }
